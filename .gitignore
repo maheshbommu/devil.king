@@ -210,7 +210,7 @@ pip-selfcheck.json
 *.vsix
 
 ### VisualStudioCode Patch ###
-# Ignore all local history of files
+# Ignore all local history of filess
 .history
 .ionide
 
